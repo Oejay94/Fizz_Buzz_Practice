@@ -12,5 +12,5 @@ Stretch Goals!!!!!
    * Instead of using console log display the words/numbers on the body of the page in an unordered list
    * Allow users to choose how many numbers to loop through and display the results on the page
    * Maybe add a reset button
-   * Figure out a way to get the same results WITHOUT using 'if statements'. (Yes there is a way, try to research it)
+   * Figure out a way to get the desired results WITHOUT using 'if statements'. (Yes there is a way, try to research it)
 */
